@@ -7,27 +7,25 @@
 # It targets institutions, influence hubs, and policy engines,
 # not individuals or general platforms.
 #
-# This is harm-reduction infrastructure, not censorship.
-#
-# ============================================================
-# Bypass Philosophy
-# ============================================================
+# This is voluntary harm-reduction infrastructure, not censorship.
+# ...............................
+
+# --- Bypass Philosophy ...
 # This blocklist is NOT carceral.
 # It does not exist to control users, punish curiosity,
 # or prevent access to information.
 #
-# It exists to:
+# It exists to: 
 #  • reduce ambient psychological harm
 #  • prevent accidental exposure via shared links
 #  • slow algorithmic radicalization pipelines
 #  • lower background culture-war noise in shared spaces
-#
+
 # Any user may opt out or bypass this list at any time.
 # Doing so is a valid personal choice and is respected.
-#
-# ============================================================
-# How to Opt Out / Bypass
-# ============================================================
+# ...............................
+
+# --- How to Opt Out / Bypass ---
 # If you want to view content blocked by this list:
 #
 # 1) Temporarily disable this list in your DNS blocker
@@ -42,10 +40,9 @@
 #
 # No logs are kept for bypass requests.
 # No justification is required.
-#
-# ============================================================
-# Ethical Scope
-# ============================================================
+# ...............................
+
+# --- Ethical Scope ---
 # This list intentionally does NOT block:
 #  • porn or adult content
 #  • piracy or “sketchy” sites
@@ -61,31 +58,26 @@
 #  • TERF and gender-critical orgs
 #  • grooming-panic factories
 #  • Christian nationalist policy engines
-#
-# ============================================================
-# User Autonomy Statement
-# ============================================================
+# ...............................
+
+# --- User Autonomy Statement ---
 # Users are trusted.
 # Curiosity is not a crime.
 # Disagreement is not a threat.
 #
 # This list exists to shape a calmer shared environment,
 # not to enforce ideology.
-#
-# ============================================================
+# ...............................
 
-
-# anticorpo conservative.txt
+# --- anticorpo conservative.txt ---
 # Purpose: Reduce exposure to organized anti-trans, anti-LGBTQ, racist,
 # reactionary, and MAGA propaganda infrastructure.
 # Philosophy: Block institutions and coordinated influence networks,
 # not individuals or general platforms.
 # Users remain free to bypass or disable this list at will.
+# ...............................
 
-# ============================================================
-# Major right-wing propaganda networks
-# ============================================================
-
+# --- Major right-wing propaganda networks ---
 foxnews.com
 newsmax.com
 oann.com
@@ -113,10 +105,7 @@ humanevents.com
 dailysignal.com
 dailycaller.com
 
-# ============================================================
-# MAGA / Trump infrastructure
-# ============================================================
-
+# --- MAGA / Trump infrastructure ---
 truthsocial.com
 maga.com
 donaldjtrump.com
@@ -131,10 +120,7 @@ thepoliticalinsider.com
 conservativereview.com
 libertyunyielding.com
 
-# ============================================================
-# Disinformation + rage-farm outlets
-# ============================================================
-
+# --- Disinformation + rage-farm outlets ---
 infowars.com
 prisonplanet.com
 zerohedge.com
@@ -153,10 +139,7 @@ revolver.news
 thegrayzone.com
 greatgameindia.com
 
-# ============================================================
-# Anti-trans organizations / policy engines
-# ============================================================
-
+# --- Anti-trans organizations / policy engines ---
 alliance-defending-freedom.org
 heritage.org
 familyresearchcouncil.org
@@ -173,10 +156,7 @@ yaf.org
 collegefix.com
 campusreform.org
 
-# ============================================================
-# TERF / gender-critical hubs
-# ============================================================
-
+# --- TERF / gender-critical hubs ---
 womensdeclaration.com
 fairplayforwomen.com
 sex-matters.org
@@ -191,10 +171,7 @@ deepgreenresistance.org
 resistancewomen.org
 womenarehuman.com
 
-# ============================================================
-# Anti-LGBTQ advocacy / hate groups
-# ============================================================
-
+# --- Anti-LGBTQ advocacy / hate groups ---
 massresistance.org
 nomblog.com
 faithfulamerica.org
@@ -209,10 +186,7 @@ christianpost.com
 cbn.com
 onenewsnow.com
 
-# ============================================================
-# Racist / white nationalist infrastructure
-# ============================================================
-
+# --- Racist / white nationalist infrastructure ---
 vdare.com
 amren.com
 stormfront.org
@@ -225,10 +199,7 @@ identityevropa.org
 americanrenaissance.com
 whiterosesociety.org
 
-# ============================================================
-# Reactionary think tanks / lobbying groups
-# ============================================================
-
+# --- Reactionary think tanks / lobbying groups ---
 cato.org
 aei.org
 hudson.org
@@ -244,10 +215,7 @@ tpusa.com
 studentsforlife.org
 concernedwomen.org
 
-# ============================================================
-# Christian nationalist networks
-# ============================================================
-
+# --- Christian nationalist networks ---
 answersingenesis.org
 americanvision.org
 gotquestions.org
@@ -257,20 +225,15 @@ wallbuilders.com
 worldviewweekend.com
 focusonthefamily.com
 
-# ============================================================
-# Anti-immigrant / ethno-nationalist policy hubs
-# ============================================================
-
+# --- Anti-immigrant / ethno-nationalist policy hubs ---
 fairus.org
 cis.org
 numbersusa.com
 vdare.com
 centerforimmigrationstudies.org
 
-# ============================================================
-# Anti-vax / conspiracy crossover hubs
-# ============================================================
 
+# --- Anti-vax / conspiracy crossover hubs ---
 naturalnews.com
 mercola.com
 collective-evolution.com
@@ -278,10 +241,7 @@ newstarget.com
 healthimpactnews.com
 greenmedinfo.com
 
-# ============================================================
-# UK-based reactionary + anti-trans hubs
-# ============================================================
-
+# --- UK-based reactionary + anti-trans hubs ---
 spiked-online.com
 conservativewoman.co.uk
 telegraph.co.uk
@@ -290,19 +250,89 @@ unherd.com
 thecritic.co.uk
 quillette.com
 
-# ============================================================
-# Groomer-panic + culture-war factories
-# ============================================================
-
+# --- Groomer-panic + culture-war factories ---
 gaysagainstgroomers.com
 protectchildhood.org
 americandecency.org
 parentstv.org
 culturewarrior.com
 
-# ============================================================
-# End of anticorpo conservative.txt
+# --- US immigration enforcement / deportation propaganda / recruitment ---
+ice.gov
+joinice.gov
+uscis.gov
+cbp.gov
+dhs.gov
+borderpatrol.gov
+
+# --- Proud Boys + affiliates / mirrors ---
+proudboysusa.com
+proudboys.org
+westernchauvinist.com
+americanidentitymovement.com
+goys.club
+
+# --- Militia / extremist orgs ---
+oathkeepers.org
+threepercenters.org
+3percenters.net
+patriotfront.us
+nationaljusticeparty.com
+identityevropa.com
+
+# --- White nationalist / neo-nazi hubs ---
+stormfront.org
+vdare.com
+americanrenaissance.com
+theoccidentalobserver.net
+dailystormer.in
+dailystormer.su
+
+# --- Alt-right propaganda + funnel media ---
+breitbart.com
+infowars.com
+thegatewaypundit.com
+newsmax.com
+thefederalist.com
+dailycaller.com
+townhall.com
+redstate.com
+theblaze.com
+zerohedge.com
+
+# --- Anti-trans / TERF ideology hubs ---
+womensdeclaration.com
+womensliberationfront.org
+womenshumanrights.net
+4thwavenow.com
+transgendertrend.com
+sexnotgender.org
+
+# --- JK Rowling ecosystem / signal boosting ---
+jkrowling.com
+thewitchtrials.co.uk
+hogwartsprofessor.com
+
+# --- MAGA fundraising + org sites ---
+winred.com
+donaldjtrump.com
+saveamerica45.com
+mikepence2024.com
+rondesantis.com
+
+# --- Racist “science” / eugenics propaganda ---
+unz.com
+takimag.com
+mankindquarterly.org
+
+# --- Platforms used heavily for extremist organizing ---
+gab.com
+truthsocial.com
+parler.com
+rumble.com
+
+# --- End of anticorpo conservative.txt
 # Maintained by: GirlInTheTerminal
 # License: Public Domain / CC0
 # Contributions welcome via PR.
-# ============================================================
+# ...............................
